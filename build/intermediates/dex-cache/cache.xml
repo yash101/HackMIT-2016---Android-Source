@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\smart\libmuse_5.13.0\android\examples\TestLibMuseAndroid\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e3782f98934900e73ef85572b3300fe27dd74b60">
+        <dex dex="C:\Users\smart\libmuse_5.13.0\android\examples\TestLibMuseAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_9fc64afa1aa7cfaed24d5f6ae2fae2570d7491b5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\smart\libmuse_5.13.0\android\examples\TestLibMuseAndroid\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="07b29211d209ff70df05ac96eda29080d8cc0d98">
+        <dex dex="C:\Users\smart\libmuse_5.13.0\android\examples\TestLibMuseAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e8f35f45da6a75521493915f2da764a4d8841197\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\smart\libmuse_5.13.0\android\examples\TestLibMuseAndroid\app\libs\libmuse_android.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e0e7a9483598120cec51b3d74f2dc23ee5981588">
+        <dex dex="C:\Users\smart\libmuse_5.13.0\android\examples\TestLibMuseAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\2\libmuse_android_3ca82f6b69ce9dc62e90ad82ac73e4d4c4c0e55d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\smart\libmuse_5.13.0\android\examples\TestLibMuseAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\smart\libmuse_5.13.0\android\examples\TestLibMuseAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.1_c39d5509b46cc4a22d1802ffea2f616841e30e23\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\smart\libmuse_5.13.0\android\examples\TestLibMuseAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\smart\libmuse_5.13.0\android\examples\TestLibMuseAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.1.1_b13275fd98d6a13f1d902d59fb2f6b6ad82967b2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\smart\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\smart\libmuse_5.13.0\android\examples\TestLibMuseAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.1_7bd133a359b302c93e9d1c8002e7d5c2f16bf868\classes.dex" />
+    </item>
+
+</items>
